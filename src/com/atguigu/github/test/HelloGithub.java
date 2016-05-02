@@ -3,7 +3,7 @@ package com.atguigu.github.test;
 public class HelloGithub {
 	
 	public static void main(String[] args) {
-		System.out.println("ÄãºÃ£¡ GitHub01");
+		System.out.println("ä½ å¥½ ï¼GitHub01");
 	}
 
 }
