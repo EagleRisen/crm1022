@@ -6,6 +6,7 @@ public class HelloGithub {
 		System.out.println("你好 ！GitHub01");
 		System.out.println("收到！ Client");
 		System.out.println("你好 ！GitHub02");
+		System.out.println("Hello github 01");
 	}
 
 }
